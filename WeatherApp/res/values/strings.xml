@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Adrian_HTTPtest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_aaaa">AAAAA</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="title_activity_image_loader">ImageLoaderActivity</string>
+    <string name="title_activity_json">JSonActivity</string>
+    <string name="title_activity_photo_wall">PhotoWallActivity</string>
+    <string name="title_activity_weihai_weather">WeihaiWeatherActivity</string>
+
+</resources>
